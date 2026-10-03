@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "woia-software-release-preparation",
+  "version": "0.5.0",
+  "description": "Prepare exact software release candidates through reproducible version, artifact, change, recovery, and promotion plans before publication or deployment.",
+  "author": {
+    "name": "Turpial AI Academy",
+    "url": "https://github.com/Turpial-AI-Academy"
+  },
+  "homepage": "https://github.com/Turpial-AI-Academy/woia-software-release-preparation-agent-plugin",
+  "repository": "https://github.com/Turpial-AI-Academy/woia-software-release-preparation-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "agent-plugin",
+    "woia",
+    "software",
+    "release-preparation"
+  ]
+}
