@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "woia-software-release-preparation",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Prepare exact software release candidates through reproducible version, artifact, change, recovery, and promotion plans before publication or deployment.",
   "author": {
     "name": "Turpial AI Academy",
