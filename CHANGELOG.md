@@ -5,6 +5,7 @@
 - Restore the canonical MIT license text from the original provider lineage.
 
 - Restore dependency-free Release Preparation domain regressions for centralized thin certification.
+- Verify required reachability of every release-plan decision and nested invariant, while preserving conformant-plan reuse.
 
 ## 0.5.0 - 2026-10-03
 
