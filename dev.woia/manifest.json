@@ -1,21 +1,8 @@
 {
   "schema": "dev.woia.provider-manifest/v1",
-  "version": "0.5.1",
+  "version": "0.5.6",
   "authoring_profile": "thin",
   "department": "software",
   "capability": "release-preparation",
-  "skill": "release-preparation",
-  "source_lineage": {
-    "repository": "Turpial-AI-Academy/release-preparation-agent-plugin",
-    "version": "1.0.1",
-    "commit": "f8969c76b8178186d486dd88ee15b1725ea1bc52"
-  },
-  "migrated_portable_paths": [
-    "skills/release-preparation/SKILL.md",
-    "skills/release-preparation/assets/release-preparation-plan.schema.json",
-    "skills/release-preparation/references/ARTIFACT_AND_PROMOTION.md",
-    "skills/release-preparation/references/RECOVERY.md",
-    "skills/release-preparation/references/RELEASE_PREPARATION_STANDARD.md",
-    "skills/release-preparation/references/VERSION_AND_CHANGES.md"
-  ]
+  "skill": "release-preparation"
 }

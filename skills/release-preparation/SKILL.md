@@ -5,7 +5,7 @@ license: MIT
 compatibility: Works across software product types and release systems; the target repository must expose enough evidence to identify the approved candidate and its release path.
 metadata:
   author: Turpial AI Academy
-  version: "0.5.1"
+  version: "0.5.6"
 ---
 
 # release-preparation
